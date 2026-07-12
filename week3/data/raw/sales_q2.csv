@@ -1,0 +1,26 @@
+order_id,date,customer_name,product,category,quantity,unit_price,total,region,sales_rep
+2001,2023-04-03,Frank Garcia,Mechanical Keyboard,Electronics,2,75.00,150.00,West,Sarah Williams
+2002,2023-04-07,Grace Martinez,Coffee Maker,Home & Kitchen,1,80.00,80.00,East,David Chen
+2003,2023-04-10,Henry Anderson,Laptop,Electrnics,1,1200.00,1200.00,South,Maria Lopez
+2004,2023-04-15,Iris Taylor,Cotton T-Shirt,Clothing,4,25.00,100.00,West,Sarah Williams
+2005,2023-04-18,James Thomas,Office Chair,Home & Kitchen,1,250.00,250.00,North,James Carter
+2006,2023-04-22,Karen Jackson,Gaming Mouse,Electronics,3,35.00,95.00,North,
+2007,2023-04-28,Liam White,Winter Jacket,Clothing,2,120.00,240.00,West,Sarah Williams
+2008,2023-05-02,Mia Harris,27-inch Monitor,Electronics,1,400.00,400.00,East,David Chen
+2009,2023-05-05,Nate Martin,Zip-up Hoodie,Clothing,2,50.00,100.00,South,Maria Lopez
+2010,2023-05-09,Olivia Thompson,High-Speed Blender,Home & Kitchen,1,65.00,65.00,South,Maria Lopez
+2011,2023-05-14,Paul Garcia,Laptop,Electronics,1,1200.00,1200.00,West,
+2012,2023-05-17,Quinn Martinez,Wireless Headphones,Electronics,2,150.00,300.00,North,James Carter
+2013,2023-05-21,Rose Robinson,Running Sneakers,Clothing,1,90.00,90.00,West,Sarah Williams
+2014,2023-05-25,Sam Clark,Standing Desk,Home & Kithen,1,350.00,350.00,North,James Carter
+2015,2023-05-29,Tina Lewis,Mechanical Keyboard,Electronics,1,75.00,75.00,East,David Chen
+2016,2023-06-02,Alice Johnson,Coffee Maker,Home & Kitchen,2,80.00,160.00,North,James Carter
+2017,2023-06-05,Bob Smith,Desk Lamp,Home & Kitchen,0,45.00,0.00,East,David Chen
+2018,2023-06-09,Carol Williams,Slim-Fit Jeans,Clothing,3,60.00,180.00,West,Sarah Williams
+2019,2023-06-12,David Brown,Gaming Mouse,ELECTRONICS,2,35.00,70.00,South,Maria Lopez
+2020,2023-06-16,Emma Jones,Office Chair,Home & Kitchen,1,250.00,500.00,North,James Carter
+2021,2023-06-19,Frank Garcia,Cotton T-Shirt,Clothing,4,25.00,100.00,West,Sarah Williams
+2022,2023-06-22,Grace Martinez,Laptop,Electronics,1,1200.00,1200.00,East,
+2023,2023-06-25,Henry Anderson,Winter Jacket,CLOTHING,1,120.00,120.00,South,Maria Lopez
+2024,2023-06-28,Iris Taylor,Wireless Headphones,Electronics,2,150.00,300.00,West,Sarah Williams
+2025,2023-06-30,James Thomas,Standing Desk,Home & Kitchen,1,350.00,350.00,North,James Carter

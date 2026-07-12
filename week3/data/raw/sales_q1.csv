@@ -1,0 +1,27 @@
+order_id,date,customer_name,product,category,quantity,unit_price,total,region,sales_rep
+1001,2023-01-05,Alice Johnson,Laptop,Electronics,1,1200.00,1200.00,North,James Carter
+1002,2023-01-08,  Bob Smith  ,Cotton T-Shirt,  Clothing  ,3,25.00,75.00,East,David Chen
+1003,2023-01-12,Carol Williams,Gaming Mouse,ELECTRONICS,2,35.00,70.00,West,Sarah Williams
+1004,15/01/2023,David Brown,Coffee Maker,Home & Kitchen,1,80.00,80.00,South,Maria Lopez
+1005,2023-01-18,Emma Jones,Laptop,Electronics,1,1200.00,,North,James Carter
+1003,2023-01-12,Carol Williams,Gaming Mouse,ELECTRONICS,2,35.00,70.00,West,Sarah Williams
+1006,Jan 20 2023,Frank Garcia,Slim-Fit Jeans,clothing,2,$60.00,120.00,West,Sarah Williams
+1007,2023-01-25,Grace Martinez,Office Chair,HOME & KITCHEN,1,250.00,250.00,East,David Chen
+1008,2023-02-01,Henry Anderson,Wireless Headphones,electronics,2,150.00,300.00,South,Maria Lopez
+1009,2023-02-05,Iris Taylor,Winter Jacket,Clothing,1,120.00,120.00,West,Sarah Williams
+1010,02/10/2023,James Thomas,27-inch Monitor,Electronics,1,400.00,400.00,,James Carter
+1011,2023-02-14,Karen Jackson,Standing Desk,Home & Kitchen,1,$350.00,,North,James Carter
+1012,2023-02-18,Liam White,Running Sneakers,Clothing,2,90.00,180.00,West,Sarah Williams
+1013,2023-02-22,Mia Harris,High-Speed Blender,Home & Kitchen,1,65.00,65.00,East,David Chen
+1014,2023-02-28,Nate Martin,Mechanical Keyboard,ELECTRONICS,1,75.00,75.00,South,Maria Lopez
+1015,Mar 3 2023,Olivia Thompson,Zip-up Hoodie,Clothing,3,50.00,150.00,South,Maria Lopez
+1016,2023-03-07,Paul Garcia,Coffee Maker,HOME & KITCHEN,2,80.00,160.00,West,Sarah Williams
+1017,2023-03-11,Quinn Martinez,Laptop,Electronics,1,1200.00,1200.00,North,James Carter
+1018,2023-03-15,Rose Robinson,Desk Lamp,Home & Kitchen,-2,45.00,-90.00,West,Sarah Williams
+1019,2023-03-18,Sam Clark,Gaming Mouse,electronics,4,35.00,140.00,North,James Carter
+1020,2023-03-20,Tina Lewis,Office Chair,Home & Kitchen,1,250.00,250.00,East,David Chen
+1021,2023-03-22,Alice Johnson,Wireless Headphones,Electronics,1,150.00,150.00,North,James Carter
+1022,2023-03-25,Bob Smith,Slim-Fit Jeans,Clothing,2,60.00,120.00,East,David Chen
+1023,2023-03-28,Carol Williams,Standing Desk,HOME & KITCHEN,1,350.00,350.00,West,Sarah Williams
+1024,2023-03-30,  David Brown  ,Cotton T-Shirt,Clothing,5,25.00,125.00,,
+1025,2023-03-31,Emma Jones,Running Sneakers,Clothing,1,90.00,90.00,North,James Carter

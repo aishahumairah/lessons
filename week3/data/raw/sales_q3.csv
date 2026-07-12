@@ -1,0 +1,26 @@
+order_id,date,customer_name,product,category,quantity,unit_price,total,region,sales_rep
+3001,2023-07-03,Karen Jackson,Laptop,Electronics,1.0,1200.00,1200.00,North,James Carter
+3002,2023-07-06,Liam White,Coffee Maker,Home & Kitchen,2.0,80.00,160.00,West,Sarah Williams
+3003,2023-07-10,Mia Harris,Gaming Mouse,Electronics,3.0,35.00,105.00,East,David Chen
+3004,2023/07/14,Nate Martin,Slim-Fit Jeans,Clothing,2.0,60.00,120.00,South,Maria Lopez
+3005,2023-07-17,Olivia Thompson,Wireless Headphones,Electronics,1.0,150.00,150.00,South,Maria Lopez
+3006,2023-07-21,Paul Garcia,  Running Sneakers  ,Clothing,2.0,90.00,180.00,West,Sarah Williams
+3007,2023/07/25,Quinn Martinez,Office Chair,Home & Kitchen,1.0,250.00,250.00,North,James Carter
+3008,2023-07-28,Rose Robinson,Winter Jacket,Clothing,1.0,120.00,120.00,West,Sarah Williams
+3009,2023-08-01,Sam Clark,27-inch Monitor,Electronics,1.0,400.00,400.00,North,James Carter
+3010,2023-08-04,Tina Lewis,High-Speed Blender,Home & Kitchen,1.0,65.00,65.00,East,David Chen
+3011,2023-08-08,Alice Johnson,Mechanical Keyboard,Electronics,2.0,75.00,150.00,North,James Carter
+3012,2023-08-11,Bob Smith,Cotton T-Shirt,Clothing,4.0,25.00,100.00,East,David Chen
+3013,2023/08/15,Carol Williams,Standing Desk,Home & Kitchen,1.0,350.00,350.00,West,Sarah Williams
+3014,2023-08-18,David Brown,Zip-up Hoodie,Clothing,3.0,50.00,150.00,South,Maria Lopez
+3015,2023-08-22,Emma Jones,Laptop,Electronics,1.0,1200.00,1200.00,North,James Carter
+3016,2023-08-25,Frank Garcia,Desk Lamp,Home & Kitchen,2.0,45.00,90.00,West,Sarah Williams
+3017,2023-08-28,Grace Martinez,Gaming Mouse,Electronics,5.0,35.00,175.00,East,David Chen
+3018,2023-09-01,Henry Anderson,Coffee Maker,Home & Kitchen,1.0,80.00,80.00,South,Maria Lopez
+3019,2023/09/04,Iris Taylor,Slim-Fit Jeans,Clothing,2.0,60.00,120.00,West,Sarah Williams
+3020,2023-09-07,James Thomas,Wireless Headphones,Electronics,2.0,150.00,300.00,North,James Carter
+3021,2023-09-11,Karen Jackson,Office Chair,Home & Kitchen,1.0,250.00,250.00,North,James Carter
+3022,2023-09-14,Liam White,Winter Jacket,Clothing,1.0,120.00,120.00,West,Sarah Williams
+3023,2023-09-18,Mia Harris,27-inch Monitor,Electronics,1.0,400.00,400.00,East,David Chen
+3024,2023/09/22,Nate Martin,Standing Desk,Home & Kitchen,1.0,350.00,350.00,South,Maria Lopez
+3025,2023-09-28,Olivia Thompson,Running Sneakers,Clothing,2.0,90.00,180.00,South,Maria Lopez

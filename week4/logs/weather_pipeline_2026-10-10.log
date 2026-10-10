@@ -1,0 +1,3 @@
+2026-10-10 12:49:34  INFO      weather_pipeline  Pipeline started
+2026-10-10 12:49:34  DEBUG     weather_pipeline  This debug message goes to the file but not the console
+2026-10-10 12:49:34  WARNING   weather_pipeline  This warning goes to both

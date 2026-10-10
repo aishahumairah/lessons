@@ -1,0 +1,17 @@
+{
+  "api": {
+    "base_url": "https://api.open-meteo.com/v1/forecast",
+    "timeout_sec": 10,
+    "fields": "temperature_2m_max,temperature_2m_min,precipitation_sum,windspeed_10m_max",
+    "sleep_between_requests": 0.3
+  },
+  "cities_file": "data/cities.csv",
+  "output_dir": "data/clean",
+  "log_dir": "logs",
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "dbname": "weather_db",
+    "user": "postgres"
+  }
+}

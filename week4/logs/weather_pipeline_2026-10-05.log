@@ -1,0 +1,18 @@
+2026-10-05 22:58:35  INFO      weather_pipeline  Pipeline started
+2026-10-05 22:58:35  DEBUG     weather_pipeline  This debug message goes to the file but not the console
+2026-10-05 22:58:35  WARNING   weather_pipeline  This warning goes to both
+2026-10-05 22:58:42  INFO      weather_pipeline  Pipeline started
+2026-10-05 22:58:42  INFO      weather_pipeline  Pipeline started
+2026-10-05 22:58:42  DEBUG     weather_pipeline  This debug message goes to the file but not the console
+2026-10-05 22:58:42  DEBUG     weather_pipeline  This debug message goes to the file but not the console
+2026-10-05 22:58:42  WARNING   weather_pipeline  This warning goes to both
+2026-10-05 22:58:42  WARNING   weather_pipeline  This warning goes to both
+2026-10-05 22:58:57  INFO      weather_pipeline  Pipeline started
+2026-10-05 22:58:57  INFO      weather_pipeline  Pipeline started
+2026-10-05 22:58:57  INFO      weather_pipeline  Pipeline started
+2026-10-05 22:58:57  DEBUG     weather_pipeline  This debug message goes to the file but not the console
+2026-10-05 22:58:57  DEBUG     weather_pipeline  This debug message goes to the file but not the console
+2026-10-05 22:58:57  DEBUG     weather_pipeline  This debug message goes to the file but not the console
+2026-10-05 22:58:57  WARNING   weather_pipeline  This warning goes to both
+2026-10-05 22:58:57  WARNING   weather_pipeline  This warning goes to both
+2026-10-05 22:58:57  WARNING   weather_pipeline  This warning goes to both
